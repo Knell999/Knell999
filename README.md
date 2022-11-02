@@ -4,7 +4,7 @@
 </a>
 
 
-Hi, I'm Hyun-jong Kim, Junior developer from South Korea and a student in D.M.U.
+Hello! I'm Hyun-jong Kim, Junior developer from South Korea and a student in D.M.U.
 
 
 **languages and tools:**  
