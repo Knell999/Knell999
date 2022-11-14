@@ -1,10 +1,10 @@
 ### Hey there! 
 [Instagram URL here](https://www.instagram.com/knell_9999/) <a href="https://www.instagram.com/knell_9999/">
-  <img align="left" alt="Abhishek's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+<img align="left" alt="Abhishek's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
 
 
-Hello! I'm Hyun-jong Kim, Junior developer from South Korea and a student in D.M.U.
+Hello! I'm Hyun-jong Kim, Junior developer from South Korea and a student in D.M.U.<code><img src="https://user-images.githubusercontent.com/70050528/189471018-8842fb25-8d8f-4d4a-8d63-40d57adf352c.png" width="90"/></code>
 
 
 **languages and tools:**  
