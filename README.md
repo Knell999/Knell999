@@ -20,4 +20,4 @@ Hello! I'm Hyun-jong Kim, Junior developer from South Korea and a student in D.M
 
 
 <br />
-<img alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+<img alt="GIF" src="https://d30womf5coomej.cloudfront.net/c/f7/0c/15/d6/87891d37872b4231ac2a6432cb34439a.gif?raw=true" width="600" height="440" />
