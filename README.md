@@ -38,7 +38,7 @@ Hello! I'm Hyun-jong Kim, Junior developer from South Korea and a student in D.M
 <br />
 
 ## Learning 📖
-* <code><img height="15" src="https://cdn.iconscout.com/icon/free/png-256/java-60-1174953.png"></code>[Practicing Java](https://github.com/Knell999/ThisIsJava)
+* <img height="20" src="https://cdn.iconscout.com/icon/free/png-256/java-60-1174953.png">[Practicing Java](https://github.com/Knell999/ThisIsJava)
 * 🧑🏻‍💻[Practicing JSP](https://github.com/Knell999/MustHave_JSP)
 
 
