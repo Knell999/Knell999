@@ -33,13 +33,12 @@ Hello! I'm Hyun-jong Kim, Junior developer from South Korea and a student in D.M
 <br />
 
 ## Project in progress 🚧
-* [OSS-Assignment in D.M.U](https://github.com/Knell999/Personal_OssLect) (2022.9 ~ )
+
 
 <br />
 
 ## Learning 📖
-* <img height="20" src="https://cdn.iconscout.com/icon/free/png-256/java-60-1174953.png">[Practicing Java](https://github.com/Knell999/ThisIsJava)
-* 🧑🏻‍💻[Practicing JSP](https://github.com/Knell999/MustHave_JSP)
+
 
 
 
