@@ -7,7 +7,7 @@
 </a>
 
 
-Hello! I'm Hyun-jong Kim, Junior developer from South Korea and a student in D.M.U.<code><img src="https://user-images.githubusercontent.com/70050528/189471018-8842fb25-8d8f-4d4a-8d63-40d57adf352c.png" width="90"/></code>
+Hello! I'm Hyun-jong Kim, Junior Data Scientist from South Korea and a student in D.M.U.<code><img src="https://user-images.githubusercontent.com/70050528/189471018-8842fb25-8d8f-4d4a-8d63-40d57adf352c.png" width="90"/></code>
 
 <br />
 
@@ -38,6 +38,11 @@ Hello! I'm Hyun-jong Kim, Junior developer from South Korea and a student in D.M
 <br />
 
 ## Learning 📖
+
+* 👩‍🎓 [혼자 공부하는 데이터 분석 with 파이썬](https://github.com/Knell999/hg-da)
+* 🧑‍🎓 [혼자 공부하는 머신러닝+딥러닝](https://github.com/Knell999/hg-mldl)
+* 🦎 [핸즈온 머신러닝 3판](https://github.com/Knell999/handson-ml3)
+* 📐 [개발자를 위한 필수 수학](https://github.com/Knell999/math4ds)
 
 
 
