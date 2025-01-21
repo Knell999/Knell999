@@ -7,7 +7,7 @@
 </a>
 
 
-Hello! I'm Hyun-jong Kim, Junior Data Scientist from South Korea and a student in D.M.U.<code><img src="https://user-images.githubusercontent.com/70050528/189471018-8842fb25-8d8f-4d4a-8d63-40d57adf352c.png" width="90"/></code>
+Hello! I'm Hyun-jong Kim, Junior Data Scientist from South Korea <code><img src="https://user-images.githubusercontent.com/70050528/189471018-8842fb25-8d8f-4d4a-8d63-40d57adf352c.png" width="90"/></code>
 
 <br />
 
