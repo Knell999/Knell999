@@ -33,6 +33,7 @@ Hello! I'm Hyun-jong Kim, Junior Data Scientist from South Korea and a student i
 <br />
 
 ## Project in progress 🚧
+* 👨‍💻 [K-Digital Traning 한국경제신문 X TossBank](https://kdt.hktossbank.com/) (2025.01 ~ )
 
 
 <br />
