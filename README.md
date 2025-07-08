@@ -29,10 +29,10 @@ Hello! I'm Hyunjong Kim, AI Engineer from South Korea
 <br />
 
 ## Career 💼
-* 🛏️ [D.M.U Department Of Interior Design](https://www.dongyang.ac.kr/sites/dmu_23256/index.do) (2019)
+* 🛏️ [D.M.U Department Of Interior Design](https://www.dongyang.ac.kr/dmu/4636/subview.do) (2019)
 * <img height="15" src=https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_South_Korea.svg/510px-Flag_of_South_Korea.svg.png><img height="15" src=https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_the_Republic_of_Korea_Air_Force.svg/300px-Flag_of_the_Republic_of_Korea_Air_Force.svg.png> [Republic of Korea Air Force](https://rokaf.airforce.mil.kr/airforce/index.do) 18th Fighter Wing Military Police (2019 - 2021)
 * <img height="15" src=https://kaareklint.co.kr/web/baton/images/favicon.png> [Kaare Klint Furniture](https://kaareklint.co.kr/) (2021.09 - 2025.02)
-* 💻 [D.M.U Department Of Artificial intelligence](https://www.dongyang.ac.kr/sites/dmu_23259/index.do) (2022.09 - 2026.02)
+* 💻 [D.M.U Department Of Artificial intelligence](https://www.dongyang.ac.kr/dmu/4586/subview.do) (2022.09 - 2026.02)
 * 👨‍💻 [K-Digital Traning 한국경제신문 X TossBank](https://kdt.hktossbank.com/) (2025.01 - 2025.07)
 
 <br />
