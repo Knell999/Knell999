@@ -17,6 +17,7 @@ Hello! I'm Hyunjong Kim, AI Engineer from South Korea
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="30" src="https://img.icons8.com/color/512/pandas.png"></code>
 <code><img height="30" src="https://img.icons8.com/?size=512&id=aR9CXyMagKIS&format=png"></code>
+<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/2560px-Scikit_learn_logo_small.svg.png"></code>
 <code><img height="30" src="https://hackr.io/tutorials/learn-tensorflow/og_image"></code>
 <code><img height="30" src="https://blog.christianperone.com/wp-content/uploads/2018/10/pytorch-logo.png"></code>
 <code><img height="30" src="https://images.icon-icons.com/3053/PNG/512/mysql_workbench_macos_bigsur_icon_189924.png"></code>
