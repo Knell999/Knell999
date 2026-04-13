@@ -34,6 +34,7 @@ Hello! I'm Hyunjong Kim, AI Engineer from South Korea
 * <img height="15" src=https://kaareklint.co.kr/web/baton/images/favicon.png> [Kaare Klint Furniture](https://kaareklint.co.kr/) (2021.09 - 2025.02)
 * 💻 [D.M.U Department Of Artificial intelligence](https://www.dongyang.ac.kr/dmu/4586/subview.do) (2022.09 - 2026.02)
 * 👨‍💻 [K-Digital Traning 한국경제신문 X TossBank](https://kdt.hktossbank.com/) (2025.01 - 2025.07)
+* 🚢 SailingStone Internship (2026.04 - ing)
 
 <br />
 
